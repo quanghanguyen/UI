@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">UI_2</string>
+    <string name="decription">DESCRIPTION</string>
+    <string name="description_2">A criminal mastermind who goes by "The Professor" has a plan to pull off the biggest heist in recorded history -- to print billions of euros in the Royal Mint of Spain.</string>
 </resources>
